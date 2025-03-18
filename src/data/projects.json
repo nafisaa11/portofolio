@@ -1,0 +1,59 @@
+[
+    {
+      "title": "API Rekam Medis",
+      "imageSrc": "projects/project.png",
+      "description": "Merupakan API yang dibuat untuk integrasi aplikasi rekam medis",
+      "skills": ["Express", "Node", "TypeScript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/nafisaa11/API_RekamMedis"
+    },
+    {
+      "title": "Restoran Pizza",
+      "imageSrc": "projects/pizza.png",
+      "description": "Project alikasi sistem kasir restoran pizza pada semester 2",
+      "skills": ["PHP", "MySQL", "HTML", "CSS"],    
+      "demo": "https://www.example.com",
+      "source": "https://github.com/nafisaa11/Semester2_Restourant_Pizza"
+    },
+    {
+        "title": "Aplikasi AutoChef Mobile",
+      "imageSrc": "projects/autochef.png",
+      "description": "Projek PDBL berkelompok, saya sebagai backend developer",
+      "skills": ["Flutter", "Laravel", "MySQL"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Xraa075/AutoChef"
+    },
+    {
+        "title": "Company Profile",
+        "imageSrc": "projects/company.png",
+        "description": "Project website statis untuk company profile menggunakan materialize",
+        "skills": ["Materialize", "JavaScript", "HTML"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/nafisaa11/Company_Profile"
+      },
+      {
+        "title": "Website Rekam Medis",
+        "imageSrc": "projects/hospital.png",
+        "description": "Tampilan depan website rekam medis menggunakan bootstrap",
+        "skills": ["PHP", "HTML", "Bootstrap", "CSS"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/nafisaa11/rekam-medis"
+      },
+      {
+        "title": "Wisata indonesia",
+        "imageSrc": "projects/wisata.png",
+        "description": "Frontend aplikasi mobile rekomendasi wisata indonesia menggunakan flutter",
+        "skills": ["Flutter"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/nafisaa11/aplikasi_wisata"
+      },
+      {
+        
+            "title": "Anime Rekomendation",
+            "imageSrc": "projects/anime.png",
+            "description": "Frontend aplikasi mobile rekomendasi anime menggunakan flutter sederhana",
+            "skills": ["Flutter"],
+            "demo": "https://www.example.com",
+            "source": "https://github.com/nafisaa11/Anime_Recommendation"
+      }
+  ]

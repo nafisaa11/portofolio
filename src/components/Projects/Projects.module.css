@@ -1,0 +1,79 @@
+@import "../../vars.css";
+
+.container {
+  margin-top: 76px;
+  color: var(--color-text);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.projects {
+  margin-top: 37px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  width: 100%;
+}
+
+.slider {
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.slick-slide {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.slick-dots li button:before {
+  color: var(--color-text);
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: var(--color-text);
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(171, 186, 252, 0.8);
+  border: none;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  z-index: 10;
+}
+
+.arrow:hover {
+  background: rgb(182, 217, 249);
+}
+
+.prev {
+  left: -100px;
+}
+
+.next {
+  right: -50px;
+}
+
+@media screen and (max-width: 768px) {
+  .arrow {
+    display: none;
+  }
+}

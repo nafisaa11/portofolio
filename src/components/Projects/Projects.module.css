@@ -76,4 +76,13 @@
   .arrow {
     display: none;
   }
+  
+  .slick-slide > div {
+    padding: 10px 15px; 
+  }
+
+  .slick-list {
+    padding: 0 30px !important; 
+    margin-right: 15px;
+  }
 }

@@ -48,8 +48,8 @@ export const Projects = () => {
         breakpoint: 768,
         settings: {
           slidesToShow: 1,
-          centerMode: true,
-          centerPadding: "0px",
+          // centerMode: true,
+          // centerPadding: "20px",
           arrows: false, // Hilangkan arrow di mobile
           dots: true,
         },

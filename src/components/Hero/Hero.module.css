@@ -22,6 +22,7 @@
 .title {
   font-size: 72px;
   font-weight: 900;
+  text-align: center;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
   background: linear-gradient(
@@ -107,5 +108,9 @@
 
   .content {
     align-items: center;
+  }
+
+  .title {
+    font-size: 52px;
   }
 }

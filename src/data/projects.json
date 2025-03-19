@@ -10,7 +10,7 @@
     {
       "title": "Restoran Pizza",
       "imageSrc": "projects/pizza.png",
-      "description": "Project alikasi sistem kasir restoran pizza pada semester 2",
+      "description": "Project aplikasi sistem kasir restoran pizza pada semester 2",
       "skills": ["PHP", "MySQL", "HTML", "CSS"],    
       "demo": "https://www.example.com",
       "source": "https://github.com/nafisaa11/Semester2_Restourant_Pizza"
